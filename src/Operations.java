@@ -1,8 +1,9 @@
 public class Operations {
 
-    Operations op = new Operations();
+	public Operations() {
+		int a=5, b+7, c;
+		c = a + b;
+		System.out.println("sum= " + c);
 
-    public Operations(){
-
-    }
+	}
 }
